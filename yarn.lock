@@ -1367,9 +1367,10 @@
     "@walletconnect/safe-json" "^1.0.0"
     ws "^7.5.1"
 
-"@walletconnect/jsonrpc-ws-connection@git+https://github.com/lautaro-osacar/jsonrpc-ws-connection.git":
-  version "1.0.0"
-  resolved "git+https://github.com/lautaro-osacar/jsonrpc-ws-connection.git#559e9647a8cbdce0b7bd6b9414b4b11e47dc6425"
+"@walletconnect/jsonrpc-ws-connection@git+https://github.com/lautaro-osacar/jsonrpc-ws-connection.git#maxListeners":
+  version "1.0.1"
+  uid "9a3e4cffa4a3779243b2e896a5aed5b73ff7cc33"
+  resolved "git+https://github.com/lautaro-osacar/jsonrpc-ws-connection.git#9a3e4cffa4a3779243b2e896a5aed5b73ff7cc33"
   dependencies:
     "@walletconnect/jsonrpc-utils" "^1.0.0"
     "@walletconnect/safe-json" "^1.0.0"
@@ -6425,9 +6426,9 @@ ws@^7.5.1:
   integrity sha512-ri1Id1WinAX5Jqn9HejiGb8crfRio0Qgu8+MtL36rlTA6RLsMdWt1Az/19A2Qij6uSHUMphEFaTKa4WG+UNHNw==
 
 ws@^8.3.0:
-  version "8.8.0"
-  resolved "https://registry.yarnpkg.com/ws/-/ws-8.8.0.tgz#8e71c75e2f6348dbf8d78005107297056cb77769"
-  integrity sha512-JDAgSYQ1ksuwqfChJusw1LSJ8BizJ2e/vVu5Lxjq3YvNJNlROv1ui4i+c/kUUrPheBvQl4c5UbERhTwKa6QBJQ==
+  version "8.17.1"
+  resolved "https://registry.yarnpkg.com/ws/-/ws-8.17.1.tgz#9293da530bb548febc95371d90f9c878727d919b"
+  integrity sha512-6XQFvXTkbfUOZOKKILFG1PDK2NDQs4azKQl26T0YS5CxqWLgXajbPZ+h4gZekJyRqFU8pvnbAbbs/3TgRPy+GQ==
 
 xtend@^4.0.0, xtend@~4.0.1:
   version "4.0.2"
